@@ -12,6 +12,18 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Adjust",
+			"Enabled": true
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FileLogging",
+			"Enabled": true
 		}
 	]
 }
